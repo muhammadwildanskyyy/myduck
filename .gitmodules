@@ -1,0 +1,3 @@
+[submodule "ducklearning"]
+	path = ducklearning
+	url = https://github.com/muhammadwildanskyyy/ducklearning.git
